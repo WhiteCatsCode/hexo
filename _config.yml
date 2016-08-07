@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 白猫的技术栈
+title: 白猫技术栈
 subtitle:
 description:
 author: 白猫
-language: zh-CN
+language:
 timezone:
 
 # URL
